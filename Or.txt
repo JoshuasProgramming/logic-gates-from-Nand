@@ -1,0 +1,6 @@
+OR GATE IMPLEMENTATION:
+
+1. Have a as an input, have nota as an output
+2. Have b as an input, have notb as an output
+3. Assign nota to a, Assign notb to b, output
+
