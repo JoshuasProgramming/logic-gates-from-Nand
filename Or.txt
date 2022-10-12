@@ -1,4 +1,4 @@
-OR GATE IMPLEMENTATION:
+OR GATE IMPLEMENTATION
 
 1. Have a as a NOT input, have nota as an output
 2. Have b as a NOT input, have notb as an output
